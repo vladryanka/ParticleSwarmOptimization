@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\ParticleSwarmOptimization\ParticleSwarmOptimization\obj\Debug\ParticleSwarmOptimization.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\ParticleSwarmOptimization\ParticleSwarmOptimization\obj\Debug\ParticleSwarmOptimization.Form1.resources
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\ParticleSwarmOptimization\ParticleSwarmOptimization\obj\Debug\ParticleSwarmOptimization.Properties.Resources.resources
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\ParticleSwarmOptimization\ParticleSwarmOptimization\obj\Debug\ParticleSwarmOptimization.csproj.GenerateResource.cache
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\ParticleSwarmOptimization\ParticleSwarmOptimization\obj\Debug\ParticleSwarmOptimization.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\ParticleSwarmOptimization\ParticleSwarmOptimization\bin\Debug\ParticleSwarmOptimization.exe.config
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\ParticleSwarmOptimization\ParticleSwarmOptimization\bin\Debug\ParticleSwarmOptimization.exe
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\ParticleSwarmOptimization\ParticleSwarmOptimization\bin\Debug\ParticleSwarmOptimization.pdb
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\ParticleSwarmOptimization\ParticleSwarmOptimization\obj\Debug\ParticleSwarmOptimization.exe
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\ParticleSwarmOptimization\ParticleSwarmOptimization\obj\Debug\ParticleSwarmOptimization.pdb
